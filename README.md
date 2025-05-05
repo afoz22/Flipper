@@ -5,5 +5,5 @@
 __Remote IR Stuff__
 > [Lucaslhm/Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB)
 
-__Marauder__
+__[ESP32]Marauder__
 > [UberGuidoZ](https://github.com/UberGuidoZ/Flipper)
