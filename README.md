@@ -1,5 +1,8 @@
 # Personal Repo for Flipper Zero Stuff
 
-### Credits:
+## Credits:
+
+__Remote IR Stuff__
+> [Lucaslhm/Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB)
 __Marauder__
-> UberGuidoZ
+> [UberGuidoZ](https://github.com/UberGuidoZ/Flipper)
